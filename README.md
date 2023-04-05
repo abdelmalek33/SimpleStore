@@ -7,7 +7,7 @@ this is first try to do this by bootstrap and some php i'm beginner .give me you
   <li>Can't tranporte between the url use must signup and enter by login page.</li>
 </ul>
 
-## <span style="color:red;">Important !!!</span>
+## <span style="color: red;" >Important !!!</span>
 <ul>
   <li>Can you give me your opinions in this about this work.</li>
 </ul>
